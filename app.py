@@ -171,4 +171,4 @@ if st.session_state.translated_text:
 # Footer
 st.divider()
 
-st.caption("Built by Varun")
+st.caption("Built by Krishna Diwakar")
